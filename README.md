@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Kharke</h1>
 <h3 align="center">A passionate Data Analysis & Business Analysis</h3>
 
-- 🔭 I’m currently working on **A simple Python Game**
+- 🔭 I’m currently working on **A (Snake, Water, Gun) Python Game**
 
 - 🌱 I’m currently learning **Business Analysis**
 
